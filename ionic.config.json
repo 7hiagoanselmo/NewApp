@@ -1,0 +1,7 @@
+{
+  "name": "pizzaRapidaApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
